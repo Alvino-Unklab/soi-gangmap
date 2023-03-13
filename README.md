@@ -5,11 +5,6 @@ This interactive (Google) map shows you the location of current SOI gang zones.
 
 ## Bagaimana cara untuk menambah wilayah
 
-
-## License
-
-[WTFPL](LICENSE)
-
 ## Version
 
 1.1.0
