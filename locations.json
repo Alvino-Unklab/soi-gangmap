@@ -2282,8 +2282,8 @@
 		],
 		"video": {
 			"yt_id": "sIsEVrmAWVE",
-			"yt_user_display": "MaximusBlack",
-			"yt_user_link": "user/maximusblack"
+			"yt_user_display": "Dikyanz",
+			"yt_user_link": "user/Dikyanz"
 		}
 	},
 	{
@@ -2351,8 +2351,8 @@
 		],
 		"video": {
 			"yt_id": "XJqW7RpnG-I",
-			"yt_user_display": "MaximusBlack",
-			"yt_user_link": "user/maximusblack"
+			"yt_user_display": "Dikyanz",
+			"yt_user_link": "user/Dikyanz"
 		}
 	},
 	{
@@ -2414,6 +2414,57 @@
 	},
 
 	{
+		"type": "Legal",
+		"title": "Mission Row PD",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": -66.807, "lng": -2.858},
+			{"lat": -66.789, "lng": -0.738},
+			{"lat": -67.452, "lng": -0.727},
+			{"lat": -67.549, "lng": -2.924}
+		]
+	},
+	{
+		"type": "Legal",
+		"title": "PBSO",
+		"notes": "Paleto Bay Sheriff's Office headquarters.",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": 73.978, "lng": -29.654},
+			{"lat": 74.135, "lng": -27.689},
+			{"lat": 73.795, "lng": -27.251},
+			{"lat": 73.678, "lng": -27.119},
+			{"lat": 73.511, "lng": -27.129},
+			{"lat": 73.426, "lng": -27.196},
+			{"lat": 73.237, "lng": -27.404},
+			{"lat": 72.972, "lng": -28.085},
+			{"lat": 73.426, "lng": -29.919}
+		]
+	},
+	{
+		"type": "Legal",
+		"title": "SDSO",
+		"notes": "the Senora Desert Sheriff's Office ensures crime is upheld and enforced.",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": 40.127, "lng": 37.054},
+			{"lat": 40.912, "lng": 38.801},
+			{"lat": 40.061, "lng": 39.428},
+			{"lat": 39.274, "lng": 37.692}
+		]
+	},
+
+	{
 		"type": "Medical",
 		"title": "Pillbox Medical Center",
 		"notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc mi nisl, mollis eu eleifend vitae, interdum id neque. Ut consectetur risus vel urna interdum, non sagittis lorem tempus. Maecenas sit amet eros lorem. Vestibulum leo purus, ultricies eu cursus et, laoreet at mauris. Morbi ut vehicula leo. Pellentesque eget nunc nec felis scelerisque blandit a ut quam. Pellentesque sit amet rhoncus massa. Curabitur vitae dolor maximus, sollicitudin libero eu, efficitur sapien. Donec in leo id elit luctus rutrum ut imperdiet elit. Mauris quis erat vel orci ultrices egestas eu a nunc. Aenean id lectus at tortor maximus aliquam. Morbi ornare metus ac ornare blandit. Nullam et diam faucibus, feugiat erat at, commodo ante.",
@@ -2431,6 +2482,7 @@
 			{"lat": -62.371, "lng": -7.168}
 		]
 	}, 
+
 	{
 		"type": "Restaurants",
 		"title": "Emerald",
