@@ -2329,7 +2329,7 @@
 	},
 	{
 		"type": "Territories",
-		"title": "Holligans",
+		"title": "Holigans",
 		"notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc mi nisl, mollis eu eleifend vitae, interdum id neque. Ut consectetur risus vel urna interdum, non sagittis lorem tempus. Maecenas sit amet eros lorem. Vestibulum leo purus, ultricies eu cursus et, laoreet at mauris. Morbi ut vehicula leo. Pellentesque eget nunc nec felis scelerisque blandit a ut quam. Pellentesque sit amet rhoncus massa. Curabitur vitae dolor maximus, sollicitudin libero eu, efficitur sapien. Donec in leo id elit luctus rutrum ut imperdiet elit. Mauris quis erat vel orci ultrices egestas eu a nunc. Aenean id lectus at tortor maximus aliquam. Morbi ornare metus ac ornare blandit. Nullam et diam faucibus, feugiat erat at, commodo ante.",
 		"wiki_link": "",
 		"order": 0,
@@ -2351,8 +2351,8 @@
 		"notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc mi nisl, mollis eu eleifend vitae, interdum id neque. Ut consectetur risus vel urna interdum, non sagittis lorem tempus. Maecenas sit amet eros lorem. Vestibulum leo purus, ultricies eu cursus et, laoreet at mauris. Morbi ut vehicula leo. Pellentesque eget nunc nec felis scelerisque blandit a ut quam. Pellentesque sit amet rhoncus massa. Curabitur vitae dolor maximus, sollicitudin libero eu, efficitur sapien. Donec in leo id elit luctus rutrum ut imperdiet elit. Mauris quis erat vel orci ultrices egestas eu a nunc. Aenean id lectus at tortor maximus aliquam. Morbi ornare metus ac ornare blandit. Nullam et diam faucibus, feugiat erat at, commodo ante.",
 		"wiki_link": "",
 		"order": 0,
-		"strokecolor": "FFFFFF",
-		"fillcolor": "EEEEEE",
+		"strokecolor": "545454",
+		"fillcolor": "C6C6C6",
 		"latlngarray": [
 			{"lat": -60.200, "lng": 6.692},
 			{"lat": -60.380, "lng": 7.188},
@@ -2421,6 +2421,29 @@
 			{"lat": -62.371, "lng": -7.168}
 		]
 	}, 
+	{
+		"type": "Restaurants",
+		"title": "Emerald",
+		"notes": "Emerald is a restaurant created and owned by .",
+		"wiki_link": " ",
+		"order": 0,
+		"strokecolor": "005B06",
+		"fillcolor": "#FFFFFF",
+		"latlngarray": [
+			{"lat": -45.407, "lng": -18.207},
+			{"lat": -45.622, "lng": -17.558},
+			{"lat": -45.522, "lng": -17.504},
+			{"lat": -46.013, "lng": -16.009},
+			{"lat": -47.533, "lng": -16.987},
+			{"lat": -47.518, "lng": -17.295},
+			{"lat": -47.295, "lng": -18.020},
+			{"lat": -47.056, "lng": -18.558},
+			{"lat": -46.627, "lng": -18.877},
+			{"lat": -46.234, "lng": -18.855},
+			{"lat": -45.807, "lng": -18.668},
+			{"lat": -45.515, "lng": -18.415}
+		]
+	},
 	{
 		"type": "Restaurants",
 		"title": "UWU Caf\u00e9",
