@@ -2279,7 +2279,12 @@
 			{"lat": -75.162, "lng": -18.468},
 			{"lat": -75.595, "lng": -16.420},
 			{"lat": -75.917, "lng": -14.874}
-		]
+		],
+		"video": {
+			"yt_id": "sIsEVrmAWVE",
+			"yt_user_display": "MaximusBlack",
+			"yt_user_link": "user/maximusblack"
+		}
 	},
 	{
 		"type": "Territories",
@@ -2343,7 +2348,12 @@
 			{"lat": -71.643, "lng": -20.777},
 			{"lat": -72.272, "lng": -18.404},
 			{"lat": -72.402, "lng": -17.854}
-		]
+		],
+		"video": {
+			"yt_id": "XJqW7RpnG-I",
+			"yt_user_display": "MaximusBlack",
+			"yt_user_link": "user/maximusblack"
+		}
 	},
 	{
 		"type": "Territories",
